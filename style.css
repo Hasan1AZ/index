@@ -1,0 +1,28 @@
+
+body{background-color: rgba(97, 91, 53, 0.5);
+}
+.foto{
+    border-radius: 50%;
+    margin-left: 600px;
+    width: 150px;
+    height: 150px;
+    border: 2px solid rgb(255, 153, 0);
+}
+.Black_Goose_bistro{color: rgb(206, 29, 29);}
+.line{
+    line-height: 0.1;
+}
+.Black_Goose{font-family: 'Handjet', cursive;}
+.lorem{font-family: 'Are You Serious', cursive;
+    font-family: 'Handjet', cursive;}
+    .line{font-family: 'Are You Serious', cursive;
+        font-family: 'Hanalei', cursive;
+        font-family: 'Handjet', cursive;}
+        h1{border-bottom: 2px solid blue;}
+        h1{text-align: center;}
+
+
+
+
+       
+
